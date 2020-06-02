@@ -45,8 +45,8 @@ namespace Aula8Abstracao
             Console.WriteLine("Deseja fazer transferência de seu cartão de débito de quanto?");
             float ad = float.Parse( Console.ReadLine());
 
-           // elo.Tranfer(ad);
-            //Console.WriteLine("Novo limite: \n R$"+elo.transf);
+            elo.Tranfer(ad);
+            Console.WriteLine("Novo limite: \n R$"+elo.transf);
             
         }
     }
