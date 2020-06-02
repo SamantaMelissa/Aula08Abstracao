@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.exe
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.dll
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\bin\Debug\netcoreapp3.1\Aula8Abstracao.pdb
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.dll
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.pdb
+C:\Users\saman\OneDrive\Documentos\Aula8Abstracao\obj\Debug\netcoreapp3.1\Aula8Abstracao.genruntimeconfig.cache
